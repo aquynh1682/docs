@@ -2,8 +2,8 @@ title: VDI Cloud
 description: A Docs of team cloud VDI
 theme: just-the-docs
 
-url: https://vdigital-cloud.github.io/vdigital-docs
-repository: vdigital-cloud/vdigital-docs
+url: https://aquynh1682.github.io/docs/
+repository: aquynh1682/docs
 
 permalink: pretty
 
@@ -57,10 +57,10 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 # appears at the bottom of every page's main content
 
 # Back to top link
-back_to_top: true
+back_to_top: false
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2023 by Vdigital Cloud."
+footer_content: "Copyright &copy; 2023 by me."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -69,7 +69,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/vdigital-cloud/vdigital-docs" # the github URL for your repo
+gh_edit_repository: "https://github.com/aquynh1682/docs" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
